@@ -1,0 +1,18 @@
+# File sampah hasil compile Arduino
+*.spec
+*.sql
+*.exe
+*.bin
+*.elf
+*.hex
+*.gen.cpp
+*.out
+
+# Folder temporary build
+build/
+bin/
+layout.html
+
+# File OS
+.DS_Store
+Thumbs.db
