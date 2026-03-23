@@ -1,0 +1,6 @@
+JWS_Anim_Pro  KEYWORD1
+dimWarnaAnim  KEYWORD2
+runTextAnim  KEYWORD2
+swimBoxAnim  KEYWORD2
+scrollUpStep  KEYWORD2
+warnaGlobal  LITERAL1
